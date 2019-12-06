@@ -13,6 +13,18 @@
 					<key>url</key>
 					<string>https://lii-media.com/ios/itc.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://lii-media.com/ios/57x57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://lii-media.com/ios/512x512.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
